@@ -16,5 +16,10 @@ namespace _3DPreciseLocate
         {
             InitializeComponent();
         }
+
+        private void frmPreciseLocate_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

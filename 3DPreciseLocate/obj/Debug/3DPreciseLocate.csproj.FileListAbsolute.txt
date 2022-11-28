@@ -1,0 +1,10 @@
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\bin\Debug\3DPreciseLocate.exe.config
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\bin\Debug\3DPreciseLocate.exe
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\bin\Debug\3DPreciseLocate.pdb
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\3DPreciseLocate.csproj.AssemblyReference.cache
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\_3DPreciseLocate.frmPreciseLocate.resources
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\_3DPreciseLocate.Properties.Resources.resources
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\3DPreciseLocate.csproj.GenerateResource.cache
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\3DPreciseLocate.csproj.CoreCompileInputs.cache
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\3DPreciseLocate.exe
+C:\Users\qiquanwei\iCloudDrive\Documents\毕业课题\3DPreciseLocate\3DPreciseLocate\obj\Debug\3DPreciseLocate.pdb

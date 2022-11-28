@@ -35,9 +35,12 @@ namespace _3DPreciseLocate
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ForeColor = System.Drawing.SystemColors.Control;
             this.Name = "frmPreciseLocate";
             this.Text = "3DPreciseLocateForm";
+            this.Load += new System.EventHandler(this.frmPreciseLocate_Load);
             this.ResumeLayout(false);
 
         }
